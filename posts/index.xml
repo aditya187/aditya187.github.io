@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ink</title>
+    <link>https://aditya187.github.io/posts/</link>
+    <description>Recent content in Posts on Ink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 14 May 2021 21:37:58 +0530</lastBuildDate><atom:link href="https://aditya187.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://aditya187.github.io/posts/about/</link>
+      <pubDate>Fri, 14 May 2021 21:37:58 +0530</pubDate>
+      
+      <guid>https://aditya187.github.io/posts/about/</guid>
+      <description>I am a cyber security professional at Amazon, based in United States. This is a personal blog for semi-random musings mostly around books, productivity, and tech.
+CONTACT
+You can contact me on Twitter or Fosstodon.
+HOW TO SUBSCRIBE
+I’m deliberate about the lack of social media sharing options or comments, however this blog does offer an RSS feed you can subscribe to: https://daitya.info/feed</description>
+    </item>
+    
+    <item>
+      <title>Sherlock Holmes</title>
+      <link>https://aditya187.github.io/posts/five/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditya187.github.io/posts/five/</guid>
+      <description>Synopsis When Maria Gibson is shot through the head while standing on the Thor Bridge on her estate, the family&amp;rsquo;s governess, Grace Dunbar, is arrested for murder. Not only does she admit meeting her mistress on the bridge, the police find the murder weapon in her room. She vehemently denies killing the woman and Senator J. Neil Gibson, the dead woman&amp;rsquo;s husband, believes her. He hires Sherlock Holmes to get to the bottom of it all.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on iPhone X</title>
+      <link>https://aditya187.github.io/posts/four/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditya187.github.io/posts/four/</guid>
+      <description>When you hold iPhone X, the first thing you notice, is that it is heavier than it looks.
+Apple has this trend of not being the first but rather being a good implementer of technologies — they recreated the tablet as iPad, finger print sensor as TouchID, applied NFC as Apple Pay, voice assistant as Siri and recently facial recognition as FaceID. There are many novelties as well, like, being the first to launch a 64 bit processor, arguably building a mobile AppStore (Appstore transformed iPhone the way newsfeed transformed Facebook), and, make phone cameras mainstream.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://aditya187.github.io/posts/one/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://aditya187.github.io/posts/one/</guid>
+      <description>iOS 14.5 It brings exciting new features to iPhone, including the ability to unlock iPhone with Apple Watch while wearing a face mask, more diverse Siri voices, new privacy controls, skin tone options to better represent couples in emoji, and much more. iOS 14.5 builds on the reimagined iPhone experience introduced in iOS 14, and is available today as a free software update. Unlock iPhone with Apple Watch
+Starting today, customers can use their Apple Watch to securely unlock iPhone when attempting to use Face ID while wearing a face mask.</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://aditya187.github.io/posts/two/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://aditya187.github.io/posts/two/</guid>
+      <description>iOS 14.5 It brings exciting new features to iPhone, including the ability to unlock iPhone with Apple Watch while wearing a face mask, more diverse Siri voices, new privacy controls, skin tone options to better represent couples in emoji, and much more. iOS 14.5 builds on the reimagined iPhone experience introduced in iOS 14, and is available today as a free software update. Unlock iPhone with Apple Watch
+Starting today, customers can use their Apple Watch to securely unlock iPhone when attempting to use Face ID while wearing a face mask.</description>
+    </item>
+    
+    <item>
+      <title>Three rules to dominate</title>
+      <link>https://aditya187.github.io/posts/third/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://aditya187.github.io/posts/third/</guid>
+      <description>iOS 14.5 It brings exciting new features to iPhone, including the ability to unlock iPhone with Apple Watch while wearing a face mask, more diverse Siri voices, new privacy controls, skin tone options to better represent couples in emoji, and much more. iOS 14.5 builds on the reimagined iPhone experience introduced in iOS 14, and is available today as a free software update. Unlock iPhone with Apple Watch
+Starting today, customers can use their Apple Watch to securely unlock iPhone when attempting to use Face ID while wearing a face mask.</description>
+    </item>
+    
+  </channel>
+</rss>
